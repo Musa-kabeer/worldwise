@@ -1,4 +1,4 @@
-import styles from './sidebar.module.css';
+import styles from './Sidebar.module.css';
 import Logo from './Logo';
 import AppNav from './AppNav';
 import Footer from './Footer';
